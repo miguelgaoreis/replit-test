@@ -1,2 +1,0 @@
-language = "java"
-run = "java -jar out/artifacts/gvgai_jar/gvgai.jar"
