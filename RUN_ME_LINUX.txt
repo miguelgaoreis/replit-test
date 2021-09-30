@@ -1,0 +1,3 @@
+Go to GVGAI folder
+Run the following command:
+java -jar out/artifacts/gvgai_jar/gvgai.jar

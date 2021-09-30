@@ -1,0 +1,17 @@
+LevelMapping
+    a > background 
+    b > background portalFast 
+    c > background base 
+    d > background portalSlow 
+    e > background avatar 
+
+LevelDescription
+aaaaaaaaaabaaacbaaaaaaaaa
+aaaaaaaaacaacaaaaaaaaaaaa
+aaaaaaaaaaaaaaaadaaaaaaaa
+aaaaaacaaaaaaaaaaaaaaaaaa
+aaaaadaaaacaaaaaaccaaaaca
+aaaaaacaaaaaaacaaaaaaaaaa
+acaaaaaaaacaaaaaaaaaaaaca
+aaaaaaaaacaaaaaaaaaaaaaaa
+aaaaaaacacaaaaaaaaaaaaaea
